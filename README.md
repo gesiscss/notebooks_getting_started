@@ -1,6 +1,6 @@
 # Welcome to GESIS Notebooks
 
-[![GESIS Notebooks](https://notebooks-test.gesis.org/static/images/logo/logo_text_2.png)](https://notebooks.gesis.org)
+[![GESIS Notebooks](https://notebooks.gesis.org/static/images/logo/logo_text.png)](https://notebooks.gesis.org)
 
 ## What is [GESIS Notebooks](https://notebooks.gesis.org)?
 GESIS Notebooks is a free and hosted service for running [Jupyter](https://jupyter.org/) Notebooks requiring no installation. We aim to enable you to get started quickly with your research ideas, prototyping your data science projects, or learning to program using languages such as [R](https://www.r-project.org/), [Python](https://www.python.org/) or [Julia](https://julialang.org/) .
