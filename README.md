@@ -11,7 +11,7 @@ GESIS Notebooks is a free and hosted service for running [Jupyter](https://jupyt
 
 ### Terms of Use
 
-This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+This material is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
