@@ -3,4 +3,5 @@ dependencies:
   - numpy
   - pip
   - pip:
-      - julia
+      - bash_kernel
+      - GetOldTweets3
