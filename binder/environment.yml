@@ -2,6 +2,7 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - scipy
   - seaborn
   - pip
   - pip:
