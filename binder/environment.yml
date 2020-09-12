@@ -1,6 +1,7 @@
 dependencies:
   - matplotlib
   - numpy
+  - pandas
   - pip
   - pip:
       - bash_kernel
