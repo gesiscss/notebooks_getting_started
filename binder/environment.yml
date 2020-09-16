@@ -5,6 +5,7 @@ dependencies:
   - scipy
   - seaborn
   - pip
+  - beautifulsoup4
   - pip:
       - bash_kernel
       - GetOldTweets3
