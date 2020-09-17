@@ -4,6 +4,7 @@ dependencies:
   - pandas
   - scipy
   - seaborn
+  - scikit-learn
   - pip
   - beautifulsoup4
   - pip:
