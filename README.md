@@ -15,3 +15,9 @@ This material is licensed under [CC BY-SA 4.0](http://creativecommons.org/licens
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+
+---
+
+Funded by the German Research Foundation (DFG).
+FKZ/project number:
+[324867496](https://gepris.dfg.de/gepris/projekt/324867496?context=projekt&task=showDetail&id=324867496&).
